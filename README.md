@@ -1,4 +1,4 @@
-About this Project
+<h1>About this Project</h1>
 
 Welcome to my static portfolio page, where I showcase my skills in web development using a stack that includes SCSS, HTML, JavaScript, CSS, and PHP. I've crafted this portfolio with a focus on simplicity, elegance, and functionality to highlight my proficiency in these technologies.
 
