@@ -11,8 +11,6 @@ Welcome to my static portfolio page, where I showcase my skills in web developme
 
 - **CSS:** Applying custom styling with pure CSS to create a visually appealing and responsive design. Media queries are employed to ensure the portfolio looks great on a variety of devices, from large desktop screens to smaller mobile displays.
 
-<!-- - **PHP:** Integrating PHP to handle server-side functionalities, such as form submissions or dynamic content loading. PHP brings a dynamic aspect to the portfolio, allowing for efficient management of data and resources. -->
-
 **Contributing:**
 I welcome contributions to enhance and improve this portfolio. If you have suggestions, please fork the repository, create a feature branch, make your changes, and submit a pull request. Feel free to open issues with the "enhancement" tag for discussions. Don't forget to star the project if you find it valuable!
 
@@ -22,7 +20,6 @@ Through this project, I've deepened my understanding of:
 - HTML for semantic and accessible web content.
 - JavaScript for interactive and dynamic web elements.
 - CSS for responsive and visually appealing designs.
-<!-- - PHP for server-side functionality and data handling. -->
 
 **Contact:**
 Connect with me to discuss collaborations, opportunities, or just to say hello!
